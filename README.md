@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://github.com/aranna05">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D1FF&center=true&vCenter=true&width=435&lines=Software+Engineer;Web+Developer;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D1FF&center=true&vCenter=true&width=435&lines=Software+Engineer;Data+Analytics;Web+Developer;Open+Source+Contributor" alt="Typing SVG" />
 </a>
 </p>
 
